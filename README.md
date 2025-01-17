@@ -85,6 +85,7 @@ ToC split by SaaS and OSS (Open Source Software):
       - [Datapine](https://www.datapine.com)
       - [Data Studio](https://www.google.com/analytics/data-studio/) by Google
       - [Domo](https://www.domo.com/)
+      - [Evidence Cloud](https://evidence.dev/cloud)
       - [Focuus](http://www.focuus.com/)
       - [Holistics](https://www.holistics.io/)
       - [Mode Analytics](https://modeanalytics.com/)
